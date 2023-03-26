@@ -4,7 +4,7 @@ title: Welcome to my blog
 
 **Καλωσήλθες**
 _Παναθηναϊκός_
-	~~The world is flat.~~
+Διπλή tilde	~~The world is flat.~~
 *κο*
 *ενα αστέρι*
 **δύο αστέρια**
